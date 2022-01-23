@@ -4,7 +4,7 @@ Full-stack engineer specializing in TALLstack development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisuc)](https://github.com/faisuc/github-readme-stats)
 
-[![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisuc)](https://github.com/faisuc/github-readme-stats)
+[![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisuc&count_private=true)](https://github.com/faisuc/github-readme-stats)
 
 [![Neil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@9a6bf8fd-5a66-4fe4-819f-90eabe6154e2)](https://github.com/faisuc/github-readme-stats)
 
