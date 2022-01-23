@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋, I'm Neil Carlo Sucuangco.
 
-<!--
-**faisuc/faisuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer specializing in TALLstack development.
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisuc)](https://github.com/faisuc/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisuc)](https://github.com/faisuc/github-readme-stats)
+
+[![Neil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@9a6bf8fd-5a66-4fe4-819f-90eabe6154e2)](https://github.com/faisuc/github-readme-stats)
+
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
