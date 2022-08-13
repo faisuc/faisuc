@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Neil Carlo Sucuangco.
 
 Full-stack engineer specializing in TALLstack development.
+https://resume.github.io/?faisuc
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisuc)](https://github.com/faisuc/github-readme-stats)
 
